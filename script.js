@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
     "Anh đắng đo suy nghĩ mãi… liệu có nên nói điều này không.",
     "Nhưng nếu không nói thì sẽ tiếc cả đời.",
     "Nên hôm nay, anh quyết định nói ra...",
-    "Làm vợ anh nha em!"
+    "Làm vợ anh nha em!",
     "Hãy để anh bên em và chăm sóc em phần đời còn lại",
     "Hãy làm mẹ của các con anh, bên anh được anh yêu thương chở che",
     "Mình cùng nhìn nhau thức mỗi sáng, cùng nhau vượt qua khó khăn",
