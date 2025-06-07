@@ -9,12 +9,16 @@ document.addEventListener('DOMContentLoaded', function () {
   const btnNo = document.getElementById('btnNo');
 
   const lines = [
-    "Từ lần đầu gặp cậu, tớ đã biết tim mình không ổn.",
-    "Mỗi tin nhắn từ cậu làm tim tớ rung lên từng nhịp.",
-    "Tớ đã nghĩ mãi… liệu có nên nói điều này không.",
+    "Từ lần đầu gặp em, anh đã biết tim anh không ổn.",
+    "Mỗi khi bên em anh cảm thấy hạnh phúc, tim anh rung lên từng nhịp.",
+    "Anh đắng đo suy nghĩ mãi… liệu có nên nói điều này không.",
     "Nhưng nếu không nói thì sẽ tiếc cả đời.",
-    "Nên hôm nay, tớ quyết định nói ra...",
-    "Tớ thích cậu!"
+    "Nên hôm nay, anh quyết định nói ra...",
+    "Làm vợ anh nha em!"
+    "Hãy để anh bên em và chăm sóc em phần đời còn lại",
+    "Hãy làm mẹ của các con anh, bên anh được anh yêu thương chở che",
+    "Mình cùng nhìn nhau thức mỗi sáng, cùng nhau vượt qua khó khăn",
+    "Cùng nhau già đi và luôn kề vai có nhau",
   ];
 
   let currentLine = 0;
